@@ -4,7 +4,7 @@ const path = require('path');
 
 module.exports = {
   config: {
-    name: "cid kageno",
+    name: "voldigo anos",
     aliases: ["guy bomisso"],
     author: " Aesther ", 
     version: "2.0",
@@ -27,11 +27,11 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '🔴𝖼𝗂𝖽 𝗄𝖺𝗀𝖾𝗇𝗈🔴',
+          name: '🔴 voldigo anos 🔴',
           gender: '𝗕𝗢𝗬',
           hobby: '𝐁𝐚𝐬𝐤𝐞𝐭🏀',
           relationship: '𝙐𝙉𝘿𝙀𝙁𝙄𝙉𝙀𝘿',
-          facebookLink: 'https://www.facebook.com/profile.php?id=100075173081158',
+          facebookLink: 'https://www.facebook.com/profile.php?id=61551757747742',
           bio: '𝙐𝙉𝘿𝙀𝙁𝙄𝙉𝙀𝘿'
         };
 
