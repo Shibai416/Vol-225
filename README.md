@@ -10,9 +10,9 @@ a voir sur facebook </h1>
 <h1 𝑰𝑻𝑨𝑪𝑯𝑰🍀>
 <p>✨😷 ᴊᴇ ᴠᴏᴜꜱ ᴅᴏɴɴᴇ ʟ'ᴀᴜᴛᴏʀɪꜱᴀᴛɪᴏɴ ᴅᴇ ꜰᴏʀᴋᴇʀ ᴍᴏɴ ʙᴏᴛ ᴍᴀɪꜱ ꜱᴠᴩ ɴᴇ ᴄʜᴀɴɢᴇᴢ ᴩᴀꜱ ʟᴇꜱ ɴᴏᴍꜱ ᴅᴇꜱ ᴀᴜᴛᴇᴜʀꜱ ᴄ'ᴇꜱᴛ ᴀ ᴅɪʀᴇ ᴍᴏɪ ᴇᴛ ᴍᴇꜱ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇᴜʀꜱ </p>
 
-<P> ᴩᴏᴜʀ ᴩʟᴜꜱ ᴅ'ɪɴꜰᴏꜱ ᴠᴏɪᴄɪ ᴍᴏɴ ʟɪᴇɴ ꜰᴀᴄᴇʙᴏᴏᴋ : https://www.facebook.com/profile.php?id=100075173081158 </p>
+<P> ᴩᴏᴜʀ ᴩʟᴜꜱ ᴅ'ɪɴꜰᴏꜱ ᴠᴏɪᴄɪ ᴍᴏɴ ʟɪᴇɴ ꜰᴀᴄᴇʙᴏᴏᴋ : https://www.facebook.com/profile.php?id=61551757747742 </p>
 
-<h2 ☄️FACEBOOK ITACHI UCHIWA>
+<h2 ☄️FACEBOOK roi démon VOLDIGO anos>
 <P> SI VOUS SOUHAITER INTEGRER NOTRE FAMILLE FACEBOOK CONTACTER MOI </P>
   
 <
