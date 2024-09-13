@@ -1,13 +1,13 @@
 module.exports = {
   config: {
-    name: "itachi ",
-    aliases: ["itachi "],
+    name: "roi demon",
+    aliases: ["voldigo"],
     version: "1.0",
     author: "cid kageno ",
     countDown: 10,
     role: 0,
     shortDescription: "Amuses toi bien au jeu du hasard",
-    longDescription: "Seul le hasard tu rendras riche ou pauvre...Bonne chance",
+    longDescription: "Seul le hasard te rendras riche ou pauvre...Bonne chance",
     category: "game",
     guide: "{pn} <all/sama> <amount of money>"
   },
@@ -49,11 +49,11 @@ module.exports = {
       const winAmount = 2 * betAmount;
       userData.money += winAmount;
       await usersData.set(event.senderID, userData);
-      return message.reply(`🎀𝐈𝐓𝐂𝐇𝐈🍀  ───────────\n<(*✨∀✨*)ﾉ\n🍀[ ${resultString} ]🍀\n🎁 | 𝐁𝐢𝐞𝐧 𝐣𝐨𝐮𝐞 𝐭'𝐚𝐬 𝐠𝐚𝐠𝐧𝐞 🎀${winAmount}€🎀!`);
+      return message.reply(`🎀🍀  ───────────\n<(*✨∀✨*)ﾉ\n🍀[ ${resultString} ]🍀\n🎁 | 𝐁𝐢𝐞𝐧 𝐣𝐨𝐮𝐞 𝐭'𝐚𝐬 𝐠𝐚𝐠𝐧𝐞 🎀${winAmount}€🎀!`);
     } else {
       userData.money -= betAmount;
       await usersData.set(event.senderID, userData);
-      return message.reply(`🎀𝐈𝐓𝐀𝐂𝐇𝐈🍀  ───────────\n🖕🏻(#°□°)🖕🏻\n🍁[ ${resultString} ]🍁\n🤦🏼| 𝐓𝐮 𝐚𝐬 𝐩𝐞𝐫𝐝𝐮 🎀${betAmount}€🎀.`);
+      return message.reply(`🎀🍀  ───────────\n🖕🏻(#°□°)🖕🏻\n🍁[ ${resultString} ]🍁\n🤦🏼| 𝐓𝐮 𝐚𝐬 𝐩𝐞𝐫𝐝𝐮 🎀${betAmount}€🎀.`);
     }
   }
 };
